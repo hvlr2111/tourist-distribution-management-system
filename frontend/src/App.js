@@ -2310,7 +2310,7 @@ function ChatbotTab() {
   const [inputMessage, setInputMessage] = useState('');
   const [isLoading, setIsLoading] = useState(false);
 
-  const GEMINI_API_KEY = 'AIzaSyBmzgV6TBzW6mOeGqTvfoe7_BGDBVGlRtw';
+  const GEMINI_API_KEY = '';
 
   // Function to create enhanced context with backend data and web search
   const createEnhancedContext = (userQuestion, backendData, webSearchResults) => {
