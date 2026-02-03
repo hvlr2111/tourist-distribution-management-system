@@ -4,7 +4,7 @@ import { getAnalytics } from "firebase/analytics";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBrbgOV5QG9BfxIZ91SeicYBno4Px6RJLs",
+    apiKey: "",
     authDomain: "sri-lanka-tourism-intelligence.firebaseapp.com",
     projectId: "sri-lanka-tourism-intelligence",
     storageBucket: "sri-lanka-tourism-intelligence.firebasestorage.app",
